@@ -1,4 +1,4 @@
-# Classification of Wine samples using Decision Trees
+# Classification of wine samples using Decision Trees
 This Jupyter Notebook was developed as an assignment for a class I took in my Master's program.
 
 This Jupyter Notebook trains a Decision Tree model on tabular data from the chemycal analysis of wine samples, in order to classify the sample's origin.
